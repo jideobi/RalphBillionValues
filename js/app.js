@@ -33,7 +33,7 @@
 					}  
 				},
 				marker:{
-					address: "40 Sibley St, Detroit",
+					address: "Plot25/26 Colliery Avenue, State Secretariat, Enugu State Nigeria",
 				}
 			},
 			"autofit" );
